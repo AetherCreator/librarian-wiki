@@ -1,0 +1,155 @@
+{
+  "topic": "1",
+  "summary": "SearXNG: 1 (12 sources)",
+  "key_facts": [
+    {
+      "claim": "Learn about the history, mathematics, and usage of 1, the first and smallest positive integer. Find out how 1 is represented in different numeral systems, languages, and fields of study.",
+      "source": "1 - Wikipedia",
+      "confidence": "medium",
+      "context": "https://en.wikipedia.org/wiki/1"
+    },
+    {
+      "claim": "Jul 23, 2020 ... Official lyric video by Taylor Swift performing \u201cthe 1\u201d \u2013 off her album 'folklore.' Album available here: https://store.taylorswift.com\u00a0...",
+      "source": "Taylor Swift - the 1 (Official Lyric Video) - YouTube",
+      "confidence": "medium",
+      "context": "https://www.youtube.com/watch?v=KsZ6tROaVOQ"
+    },
+    {
+      "claim": "1% for the Planet is a globally recognized certification that represents thousands of businesses and environmental partners. Millions of people around the world trust the 1% for the Planet logo as a certified seal against greenwashing.",
+      "source": "1% for the Planet | Accelerating Environmental Giving",
+      "confidence": "medium",
+      "context": "https://www.onepercentfortheplanet.org/"
+    },
+    {
+      "claim": "1 (previous 0, next 2) The cardinal number one, a single thing or unit. A digit in decimal and every other base numbering system, including binary, octal, and hexadecimal. 15 \u00d7 134 = 2010 0010 00112 (the number 35 in binary notation) 0x1000E001 (the number 268492801 in hexadecimal notation) (mathematics) The identity element with respect to multiplication in a ring. a \u00d7 1 = a (computer ...",
+      "source": "1 - Wiktionary, the free dictionary",
+      "confidence": "medium",
+      "context": "https://en.wiktionary.org/wiki/1"
+    },
+    {
+      "claim": "Jul 23, 2020 ... Provided to YouTube by Universal Music Group the 1 \u00b7 Taylor Swift folklore \u2117 2020 Taylor Swift Released on: 2020-07-24 Synth Bass,\u00a0...",
+      "source": "the 1 - YouTube",
+      "confidence": "medium",
+      "context": "https://www.youtube.com/watch?v=_yHn-954iVQ"
+    },
+    {
+      "claim": "1 day ago \u00b7 See the Zenless Zone Zero Redeem Codes that can be redeemed as of 2.7 on April 2026 and how to use the redemption code site in this Zenless Zone Zero (ZZZ) guide!",
+      "source": "All Zenless Zone Zero Codes in April 2026 - Game8",
+      "confidence": "medium",
+      "context": "https://game8.co/games/Zenless-Zone-Zero/archives/435683"
+    },
+    {
+      "claim": "May 22, 2025 ... 3326 likes, 142 comments - willlinleyy on May 22, 2025: \"Rate my form from 1 - your favourite Taylor Swift song \".",
+      "source": "Rate my form from 1 - your favourite Taylor Swift song - Instagram",
+      "confidence": "medium",
+      "context": "https://www.instagram.com/reel/DJ9e-yopFzP/?hl=en"
+    },
+    {
+      "claim": "\"The 1\" is a song by the American singer-songwriter Taylor Swift and the opening track of her eighth studio album, Folklore (2020). She wrote the song with its producer, Aaron Dessner. A folk and soft rock tune with elements of indie folk, \"The 1\" sets Swift's conversational vocals over a ...",
+      "source": "The 1 - Wikipedia",
+      "confidence": "medium",
+      "context": "https://en.wikipedia.org/wiki/The_1"
+    },
+    {
+      "claim": "Jul 15, 2022 ... Ronan was a 4 year old little boy who died of cancer. Taylor wrote the song based off the mom's experience. Listen to it with caution, you may\u00a0...",
+      "source": "r/TaylorSwift on Reddit: \u201cThe 1\u201d is the saddest song in the history of ever\u2026",
+      "confidence": "medium",
+      "context": "https://www.reddit.com/r/TaylorSwift/comments/vzebt1/the_1_is_the_saddest_song_in_the_history_of_ever/"
+    },
+    {
+      "claim": "Lyrics. I'm doing good, I'm on some new shit. Been saying \"yes\" instead of \"no\". I thought I saw you at the bus stop, I didn't though.",
+      "source": "the 1 - song and lyrics by Taylor Swift - Spotify",
+      "confidence": "medium",
+      "context": "https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8"
+    },
+    {
+      "claim": "the 1 Lyrics: I'm doing good, I'm on some new shit / Been saying \"yes\" instead of \"no\" / I thought I saw you at the bus stop, I didn't though / I hit the ground running each night / I hit the",
+      "source": "Taylor Swift \u2013 the 1 Lyrics | Genius Lyrics",
+      "confidence": "medium",
+      "context": "https://genius.com/Taylor-swift-the-1-lyrics"
+    },
+    {
+      "claim": "Stream the 1 by Taylor Swift on desktop and mobile. Play over 320 million tracks for free on SoundCloud.",
+      "source": "Stream the 1 by Taylor Swift | Listen online for free on SoundCloud",
+      "confidence": "medium",
+      "context": "https://soundcloud.com/taylorswiftofficial/the-1"
+    }
+  ],
+  "prerequisites": [],
+  "cross_domain_bridges": [],
+  "open_questions": [],
+  "sources": [
+    {
+      "title": "1 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Taylor Swift - the 1 (Official Lyric Video) - YouTube",
+      "url": "https://www.youtube.com/watch?v=KsZ6tROaVOQ",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "1% for the Planet | Accelerating Environmental Giving",
+      "url": "https://www.onepercentfortheplanet.org/",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "1 - Wiktionary, the free dictionary",
+      "url": "https://en.wiktionary.org/wiki/1",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "the 1 - YouTube",
+      "url": "https://www.youtube.com/watch?v=_yHn-954iVQ",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "All Zenless Zone Zero Codes in April 2026 - Game8",
+      "url": "https://game8.co/games/Zenless-Zone-Zero/archives/435683",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Rate my form from 1 - your favourite Taylor Swift song - Instagram",
+      "url": "https://www.instagram.com/reel/DJ9e-yopFzP/?hl=en",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "The 1 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_1",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "r/TaylorSwift on Reddit: \u201cThe 1\u201d is the saddest song in the history of ever\u2026",
+      "url": "https://www.reddit.com/r/TaylorSwift/comments/vzebt1/the_1_is_the_saddest_song_in_the_history_of_ever/",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "the 1 - song and lyrics by Taylor Swift - Spotify",
+      "url": "https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Taylor Swift \u2013 the 1 Lyrics | Genius Lyrics",
+      "url": "https://genius.com/Taylor-swift-the-1-lyrics",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Stream the 1 by Taylor Swift | Listen online for free on SoundCloud",
+      "url": "https://soundcloud.com/taylorswiftofficial/the-1",
+      "type": "reference",
+      "reliability": "medium"
+    }
+  ]
+}

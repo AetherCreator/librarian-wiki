@@ -1,0 +1,155 @@
+{
+  "topic": "sourdough fermentation science",
+  "summary": "SearXNG: sourdough fermentation science (12 sources)",
+  "key_facts": [
+    {
+      "claim": "Microbial ecology and process technology of sourdough fermentation \u00b7 Advances in Applied Microbiology, 100 (2017), pp. 49-160, 10.1016/bs.aambs.2017.02.003 ... E. Debonne, F. Van Bockstaele, I. De Leyn, F. Devlieghere, M. Eeckhout \u00b7 Validation of in-vitro antifungal activity of thyme essential oil on Aspergillus niger and Penicillium paneum through application in par-baked wheat and sourdough bread \u00b7 Lebensmittel-Wissenschaft und -Technologie- Food Science and Technology, 87 (2018), pp.",
+      "source": "Thirty years of knowledge on sourdough fermentation: A systematic review - ScienceDirect",
+      "confidence": "medium",
+      "context": "https://www.sciencedirect.com/science/article/pii/S0924224420307202"
+    },
+    {
+      "claim": "To begin Emily Buehler seems to have a good overall description of the science: \u201cA sourdough starter is created by mixing flour and water, and then allowing the microorganisms\u2014wild yeasts and bacteria\u2014that live in the flour and air to thrive and multiply.",
+      "source": "The Science Behind Sourdough | yoursourdoughstart.com",
+      "confidence": "medium",
+      "context": "https://yoursourdoughstart.com/science-of-sourdough-bread/"
+    },
+    {
+      "claim": "The practice of sourdough bread-making is an ancient science that involves the development, maintenance, and use of a diverse and complex starter culture. The sourdough starter culture comes in many different forms and is used in bread-making at ...",
+      "source": "A review of sourdough starters: ecology, practices, and sensory quality with applications for baking and recommendations for future research - PMC",
+      "confidence": "medium",
+      "context": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8117929/"
+    },
+    {
+      "claim": "Recent research challenges the long-held belief that sourdough\u2019s magic comes solely from its wild yeast and bacteria. Scientists have identified enzymes within the wheat itself as key players in ...",
+      "source": "New research reveals wheat enzymes key to sourdough\u2019s benefits",
+      "confidence": "medium",
+      "context": "https://www.msn.com/en-us/news/other/new-research-reveals-wheat-enzymes-key-to-sourdough-s-benefits/gm-GM1FAC2273"
+    },
+    {
+      "claim": "Sourdough fermentation is one of the oldest traditional methods in food technology and occurs as a result of fermentation of flour prepared from grains. The nutritional role of sourdough is related to the final composition of fermented foods ...",
+      "source": "Exploring the Nutritional Impact of Sourdough Fermentation: Its Mechanisms and Functional Potential - PMC",
+      "confidence": "medium",
+      "context": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11172170/"
+    },
+    {
+      "claim": "Oct 3, 2019 ... Ever wondered what the two key factors are which most influence the flavour and fermentation power of your sourdough?",
+      "source": "The science behind sourdough - YouTube",
+      "confidence": "medium",
+      "context": "https://www.youtube.com/watch?v=l_8UDwFETZo"
+    },
+    {
+      "claim": "Understanding the science of sourdough fermentation is more than just a culinary pursuit; it's a fascinating journey into microbiology and chemistry that unveils the complexities behind one of the oldest forms of breadmaking. This intricate process transforms simple ingredients\u2014flour and water\u2014into a flavorsome and nutritious loaf of bread.",
+      "source": "In-Depth: The Science of Sourdough Fermentation - The Sourdough Science Academy",
+      "confidence": "medium",
+      "context": "https://thesourdoughscience.com/in-depth-the-science-of-sourdough-fermentation/"
+    },
+    {
+      "claim": "What happens during sourdough fermentation? Discover how microbes, enzymes and wheat fibers transform dough to improve flavor, texture and digestion.",
+      "source": "What Really Happens in Sourdough Fermentation\u2014Science Explains",
+      "confidence": "medium",
+      "context": "https://www.scientificworldinfo.com/2026/03/what-really-happens-in-sourdough-fermentation.html"
+    },
+    {
+      "claim": "Jun 26, 2020 \u00b7 The live microorganisms that inhabit sourdough starters are responsible for the unique aspects of sourdough bread, including its flavor and extended shelf life.",
+      "source": "The Sourdough Microbiome - American Society for Microbiology",
+      "confidence": "medium",
+      "context": "https://asm.org/articles/2020/june/the-sourdough-microbiome"
+    },
+    {
+      "claim": "The production of carbon dioxide creates gas bubbles in dough, which, when trapped in a well-developed gluten matrix, expand the dough. When baked at a high ...The Wild Beginnings of... \u00b7 Sourdough Starters Versus...",
+      "source": "The Science of Sourdough Starters - Serious Eats",
+      "confidence": "medium",
+      "context": "https://www.seriouseats.com/sourdough-starter-science"
+    },
+    {
+      "claim": "The first March, when we all learned ... for \"sourdough\" increased over 500%. In our panic and grief-stricken state early on in our social isolation, many of us reached for the starter. There's something almost poetic about it. As we were all stuck fermenting in the house, we were inspired to make a bread prepared in much the same way. From the fermentation process to the maillard-browning reaction in the baking, it turns out there's a lot of science behind that ...",
+      "source": "Knead to Know: Unlock the Secrets of Sourdough | Harvard Online",
+      "confidence": "medium",
+      "context": "https://harvardonline.harvard.edu/blog/secrets-sourdough"
+    },
+    {
+      "claim": "New research shows that sourdough fermentation does more than make bread rise\u2014it transforms wheat fibers in unexpected ways. Scientists found that enzymes already present in wheat, activated by the sourdough\u2019s acidic environment, break down ...",
+      "source": "Scientists discover what really happens during sourdough fermentation | ScienceDaily",
+      "confidence": "medium",
+      "context": "https://www.sciencedaily.com/releases/2026/03/260315225130.htm"
+    }
+  ],
+  "prerequisites": [],
+  "cross_domain_bridges": [],
+  "open_questions": [],
+  "sources": [
+    {
+      "title": "Thirty years of knowledge on sourdough fermentation: A systematic review - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224420307202",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "The Science Behind Sourdough | yoursourdoughstart.com",
+      "url": "https://yoursourdoughstart.com/science-of-sourdough-bread/",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "A review of sourdough starters: ecology, practices, and sensory quality with applications for baking and recommendations for future research - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8117929/",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "New research reveals wheat enzymes key to sourdough\u2019s benefits",
+      "url": "https://www.msn.com/en-us/news/other/new-research-reveals-wheat-enzymes-key-to-sourdough-s-benefits/gm-GM1FAC2273",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Exploring the Nutritional Impact of Sourdough Fermentation: Its Mechanisms and Functional Potential - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11172170/",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "The science behind sourdough - YouTube",
+      "url": "https://www.youtube.com/watch?v=l_8UDwFETZo",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "In-Depth: The Science of Sourdough Fermentation - The Sourdough Science Academy",
+      "url": "https://thesourdoughscience.com/in-depth-the-science-of-sourdough-fermentation/",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "What Really Happens in Sourdough Fermentation\u2014Science Explains",
+      "url": "https://www.scientificworldinfo.com/2026/03/what-really-happens-in-sourdough-fermentation.html",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "The Sourdough Microbiome - American Society for Microbiology",
+      "url": "https://asm.org/articles/2020/june/the-sourdough-microbiome",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "The Science of Sourdough Starters - Serious Eats",
+      "url": "https://www.seriouseats.com/sourdough-starter-science",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Knead to Know: Unlock the Secrets of Sourdough | Harvard Online",
+      "url": "https://harvardonline.harvard.edu/blog/secrets-sourdough",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Scientists discover what really happens during sourdough fermentation | ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260315225130.htm",
+      "type": "reference",
+      "reliability": "medium"
+    }
+  ]
+}

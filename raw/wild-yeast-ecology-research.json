@@ -1,0 +1,155 @@
+{
+  "topic": "wild-yeast-ecology",
+  "summary": "SearXNG: wild-yeast-ecology (12 sources)",
+  "key_facts": [
+    {
+      "claim": "Saccharomyces cerevisiae predominantly exists as diploid cells in nature, a life-cycle feature that limits classical genetic analyses of wild populations. Here, we establish a stable haploid strain collection derived from 33 diverse Taiwanese S. cerevisiae isolates through targeted disruption of the HO endonuclease gene. This resource spans predomesticated Asian wild lineages and enables ...",
+      "source": "A haploid wild yeast resource for exploring the natural ecology of ...",
+      "confidence": "medium",
+      "context": "https://www.biorxiv.org/content/10.64898/2026.02.13.705822v1"
+    },
+    {
+      "claim": "Improved and more accessible genome-sequencing approaches have allowed the analysis of large sets of natural yeast isolates. As a consequence, this unprecedented level of description of yeast-genome characteristics and variations in natural environments has provided crucial insights on yeast ecology and evolution.",
+      "source": "Going wild: ecology and genomics are crucial to understand yeast evolution - ScienceDirect",
+      "confidence": "medium",
+      "context": "https://www.sciencedirect.com/science/article/pii/S0959437X22000314"
+    },
+    {
+      "claim": "In 'Wild, Wild, Yeasts,' Melissa Petruzzello of Encyclopaedia Britannica discusses the ecology and uses of yeasts. She is joined by Michele Metych to talk about wild yeasts and sourdough bread-making. This is the thirteenth installment of the Botanize! audio series.",
+      "source": "Wild, Wild Yeasts | Botanize! Podcast and Transcript | Britannica",
+      "confidence": "medium",
+      "context": "https://www.britannica.com/science/Wild-Wild-Yeasts-2192717"
+    },
+    {
+      "claim": "Oct 6, 2017 \u00b7 Recently, the application of DNA-based culture-independent methods has taken an increasing role in the investigation of yeast biodiversity and ecology. In addition to the continuous discovery of novel yeast species, significant effort is being made to understand their function in their natural habitats.",
+      "source": "Yeast Habitats: Different but Global | Springer Nature Link",
+      "confidence": "medium",
+      "context": "https://link.springer.com/chapter/10.1007/978-3-319-61575-2_2"
+    },
+    {
+      "claim": "This ability may be advantageous ... extreme ecological niches, such as rock-dwelling microbial communities [19]. Species like Taphrina antarctica exhibit adaptive strategies to overcome the negative effect of low temperatures (4\u201310 \u00b0C), namely, increased membrane fluidity, production of cold-shock and anti-freeze proteins, and cold-active enzymes [28,125]. Less than 1% of the yeast species in nature have been discovered [6,126]. Therefore, the isolation of new wild yeasts is ...",
+      "source": "Yeasts Inhabiting Extreme Environments and Their Biotechnological Applications - PMC",
+      "confidence": "medium",
+      "context": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9028089/"
+    },
+    {
+      "claim": "The wine yeast, Saccharomyces cerevisiae, is the best understood microbial eukaryote at the molecular and cellular level, yet its natural geographic\u00a0...",
+      "source": "Summer temperature can predict the distribution of wild yeast ... - PMC",
+      "confidence": "medium",
+      "context": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4761769/"
+    },
+    {
+      "claim": "Aug 10, 2022 ... cerevisiae ecology is still unknown and the correct ecological factors may have yet to be explored. Another reason genetic drift is supported as\u00a0...",
+      "source": "Revealing the natural history of yeast - The Molecular Ecologist",
+      "confidence": "medium",
+      "context": "https://www.molecularecologist.com/2022/08/10/revealing-the-natural-history-of-yeast/"
+    },
+    {
+      "claim": "These resources support future research on yeast evolution, ecology, and metabolic engineering, facilitating the engineering of yeasts with enhanced traits for industrial biotechnology and the understanding of the evolutionary principles occurred in other nonmodel yeast species.",
+      "source": "Yeast adapts to diverse ecological niches driven by genomics and ...",
+      "confidence": "medium",
+      "context": "https://www.pnas.org/doi/10.1073/pnas.2502044122"
+    },
+    {
+      "claim": "Mar 22, 2018 ... Nectar yeasts: a natural microcosm for ecology. Yeast. 99. Begon M. 1982 Yeasts and Drosophila. In The genetics and biology of drosophila\u00a0...",
+      "source": "[PDF] The ecology of insect\u2013yeast relationships and its relevance to ...",
+      "confidence": "medium",
+      "context": "https://web.stanford.edu/~fukamit/madden-et-al-2018.pdf"
+    },
+    {
+      "claim": "Yeasts from the soil and from the skins of fruits and berries have been shown to dominate fungal succession during fruit decay. The ecological function and biodiversity of yeasts are relatively unknown compared to those of other ...",
+      "source": "Yeast - Wikipedia",
+      "confidence": "medium",
+      "context": "https://en.wikipedia.org/wiki/Yeast"
+    },
+    {
+      "claim": "Here, we describe the curriculum ... yeast molecular ecology and brewing. The rationale for the course is to compare commercial Saccharomyces cerevisiae yeast strains, which have been domesticated through thousands of generations of selection, with wild yeast, where there is ...",
+      "source": "A Wild Yeast Laboratory Activity: From Isolation to Brewing | Journal of Microbiology & Biology Education",
+      "confidence": "medium",
+      "context": "https://journals.asm.org/doi/10.1128/jmbe.00186-21"
+    },
+    {
+      "claim": "The availability of nutrients is likely to result in a rapid, mitotic clonal expansion of diploid yeast cells (Figure 1A,C). ... How does the S. cerevisiae life cycle progress in the wild? What is the importance of the different life-cycle phases and of sexual reproduction? New insights into these questions could be obtained by directly observing natural populations or by analysing bar-coded strains released in a controlled wild environment. Can we assemble an exhaustive catalogue of S. cerevisiae ecological niches?",
+      "source": "The Natural History of Model Organisms: The fascinating and secret wild life of the budding yeast S. cerevisiae | eLife",
+      "confidence": "medium",
+      "context": "https://elifesciences.org/articles/05835"
+    }
+  ],
+  "prerequisites": [],
+  "cross_domain_bridges": [],
+  "open_questions": [],
+  "sources": [
+    {
+      "title": "A haploid wild yeast resource for exploring the natural ecology of ...",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.02.13.705822v1",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Going wild: ecology and genomics are crucial to understand yeast evolution - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0959437X22000314",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Wild, Wild Yeasts | Botanize! Podcast and Transcript | Britannica",
+      "url": "https://www.britannica.com/science/Wild-Wild-Yeasts-2192717",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Yeast Habitats: Different but Global | Springer Nature Link",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-319-61575-2_2",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Yeasts Inhabiting Extreme Environments and Their Biotechnological Applications - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9028089/",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Summer temperature can predict the distribution of wild yeast ... - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4761769/",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Revealing the natural history of yeast - The Molecular Ecologist",
+      "url": "https://www.molecularecologist.com/2022/08/10/revealing-the-natural-history-of-yeast/",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Yeast adapts to diverse ecological niches driven by genomics and ...",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2502044122",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "[PDF] The ecology of insect\u2013yeast relationships and its relevance to ...",
+      "url": "https://web.stanford.edu/~fukamit/madden-et-al-2018.pdf",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Yeast - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yeast",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "A Wild Yeast Laboratory Activity: From Isolation to Brewing | Journal of Microbiology & Biology Education",
+      "url": "https://journals.asm.org/doi/10.1128/jmbe.00186-21",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "The Natural History of Model Organisms: The fascinating and secret wild life of the budding yeast S. cerevisiae | eLife",
+      "url": "https://elifesciences.org/articles/05835",
+      "type": "reference",
+      "reliability": "medium"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 # Open Questions — The Librarian's Research Agenda
-Last updated: 2026-04-08T00:00:00Z
+Last updated: 2026-04-08T02:00:56Z
 Total open: 1
 Resolved this week: 0
 
@@ -7,7 +7,7 @@ Resolved this week: 0
 
 | Priority | Topic | Referenced By | Added |
 |----------|-------|--------------|-------|
-| 1 | [[RED: sourdough-fermentation]] — seed topic: wild yeast, LAB, gluten network | seed | 2026-04-08 |
+| 1 | [[RED: Flour Protein Content and Sourdough Flavor Profile]] — referenced from sourdough-fermentation | sourdough-fermentation | 2026-04-08 |
 
 ## Recently Resolved
 | Topic | Resolved | Article |

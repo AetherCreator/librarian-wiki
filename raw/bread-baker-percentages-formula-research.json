@@ -1,0 +1,155 @@
+{
+  "topic": "bread baker percentages formula",
+  "summary": "SearXNG: bread baker percentages formula (12 sources)",
+  "key_facts": [
+    {
+      "claim": "Baker's Percentage When writing a formula, the easiest method is to do so using what is known as baker's percentage, or baker's math. In using baker's percentage, each ingredient in a formula is expressed as a percentage of the flour weight, and the flour weight is always expressed as 100%.",
+      "source": "Baker's Percentage | King Arthur Baking",
+      "confidence": "medium",
+      "context": "https://www.kingarthurbaking.com/pro/reference/bakers-percentage"
+    },
+    {
+      "claim": "1 day ago \u00b7 Support whole wheat, rye, or spelt formulas with a stronger base flour. Approximate a target protein percentage from a published bread formula. Keep batch-size math clear by translating blend shares into gram weights immediately. Use protein targeting as a first step before adjusting hydration and fermentation handling.",
+      "source": "Bread Baking Flour Blend Ratio Calculator - Target Protein ...",
+      "confidence": "medium",
+      "context": "https://completecalculators.com/calculators/bread-baking/flour-blend-ratio-calculator"
+    },
+    {
+      "claim": "Calculate bread percentages instantly with our free baker's math calculator. Convert any recipe to baker's percentages, scale loaves, and understand hydration ratios for perfect bread every time.",
+      "source": "Bread Percentage Calculator: Baker's Math Made Easy",
+      "confidence": "medium",
+      "context": "https://missvickie.com/bread-percentage-calculator/"
+    },
+    {
+      "claim": "No recipes, just an amazing formula that will revolutionize the way you bake sourdough bread.\u201cThe Baker\u2019s Percentage\u201d is a formula developed by bread bakers to allow them to create any bread, from a pure white sourdough to a 100 percent whole wheat loaf. With it, bakers can scale up or down, from one loaf to a dozen, and can choose to speed up or slow down fermentation according to their ...",
+      "source": "The Baker's Percentage: The simple formula for making perfect ...",
+      "confidence": "medium",
+      "context": "https://mcleanandeakin.com/book/9781923239791"
+    },
+    {
+      "claim": "Sep 11, 2024 ... In the table below, you'll see some typical percentages: the flour adds up to 100% (high protein bread flour at 80% and whole wheat flour at 20\u00a0...",
+      "source": "Introduction to Baker's Percentages | The Perfect Loaf",
+      "confidence": "medium",
+      "context": "https://www.theperfectloaf.com/reference/introduction-to-bakers-percentages/"
+    },
+    {
+      "claim": "\u201cThe Baker\u2019s Percentage\u201d is a formula developed by bread bakers to allow them to create any bread, from a pure white sourdough to a 100 percent whole wheat loaf. With it, bakers can scale up or down, from one loaf to a dozen, and can choose to speed up or slow down fermentation according to their daily commitments.",
+      "source": "The Baker's Percentage: The simple formula for making perfect ...",
+      "confidence": "medium",
+      "context": "https://dottersbooks.com/products/the-bakers-percentage-the-simple-formula-for-making-perfect-sourdough-bread-at-home-by-mara-ripani"
+    },
+    {
+      "claim": "Oct 9, 2024 ... Baker's percentage is a universal language that bakers use for reading, writing, adjusting, and sharing recipe formulas.",
+      "source": "Everything You Need to Know About Baker's Percentage - YouTube",
+      "confidence": "medium",
+      "context": "https://www.youtube.com/watch?v=kmPf527TbwY"
+    },
+    {
+      "claim": "Learn how to calculate baker's percentage for bread baking with our step-by-step guide. Master baker's math formula with examples for sourdough, pizza dough, and more.",
+      "source": "How to Calculate Baker's Percentage: Step-by-Step Guide",
+      "confidence": "medium",
+      "context": "https://flourwise.com/blog/how-to-calculate-bakers-percentage/"
+    },
+    {
+      "claim": "No Recipes, Just An Amazing Formula That Will Revolutionize The Way You Bake Sourdough Bread.The BakerS Percentage Is A Formula Developed By Bread Bakers To Allow Them To Create Any Bread, From A Pure White Sourdough To A 100 Percent Whole Wheat Loaf. With It, Bakers Can Scale Up Or Down, From One Loaf To A Dozen, And Can Choose To Speed Up Or Slow Down Fermentation According To Their Daily ...",
+      "source": "The BakerS Percentage: The Simple Formula For Making ... - Shop",
+      "confidence": "medium",
+      "context": "https://shop.app/products/9587664453877/the-bakers-percentage-the-simple-formula-for-making-perfect-sourdough-bread-at"
+    },
+    {
+      "claim": "Most bread formulas use 1.8\u20132% salt as baker's percentage. Below 1.5% and the bread tastes noticeably flat; above 2.5% and fermentation slows significantly\u00a0...",
+      "source": "Baker's Percentage Calculator & Complete Guide for Bakers - meez",
+      "confidence": "medium",
+      "context": "https://www.getmeez.com/blog/percentage-of-total-ingredients"
+    },
+    {
+      "claim": "Free bread dough calculator using baker's percentages. Perfect recipes for sourdough, baguettes, focaccia, and more. Master the art of artisan bread baking.",
+      "source": "The Dough Formula | Bread Calculator with Baker's Percentages",
+      "confidence": "medium",
+      "context": "https://thedoughformula.com/"
+    },
+    {
+      "claim": "From Rizzoli:, No recipes, just an amazing formula that will revolutionize the way you bake sourdough bread. \u201cThe Baker\u2019s Percentage\u201d is a formula developed by bread bakers to allow them to create any bread, from a pure white sourdough to a 100 percent whole wheat loaf.",
+      "source": "The Baker's Percentage: The simple formula for making ... - Shop",
+      "confidence": "medium",
+      "context": "https://shop.app/products/10415552987429/the-bakers-percentage-the-simple-formula-for-making-perfect-sourdough-bread-at"
+    }
+  ],
+  "prerequisites": [],
+  "cross_domain_bridges": [],
+  "open_questions": [],
+  "sources": [
+    {
+      "title": "Baker's Percentage | King Arthur Baking",
+      "url": "https://www.kingarthurbaking.com/pro/reference/bakers-percentage",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Bread Baking Flour Blend Ratio Calculator - Target Protein ...",
+      "url": "https://completecalculators.com/calculators/bread-baking/flour-blend-ratio-calculator",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Bread Percentage Calculator: Baker's Math Made Easy",
+      "url": "https://missvickie.com/bread-percentage-calculator/",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "The Baker's Percentage: The simple formula for making perfect ...",
+      "url": "https://mcleanandeakin.com/book/9781923239791",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Introduction to Baker's Percentages | The Perfect Loaf",
+      "url": "https://www.theperfectloaf.com/reference/introduction-to-bakers-percentages/",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "The Baker's Percentage: The simple formula for making perfect ...",
+      "url": "https://dottersbooks.com/products/the-bakers-percentage-the-simple-formula-for-making-perfect-sourdough-bread-at-home-by-mara-ripani",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Everything You Need to Know About Baker's Percentage - YouTube",
+      "url": "https://www.youtube.com/watch?v=kmPf527TbwY",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "How to Calculate Baker's Percentage: Step-by-Step Guide",
+      "url": "https://flourwise.com/blog/how-to-calculate-bakers-percentage/",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "The BakerS Percentage: The Simple Formula For Making ... - Shop",
+      "url": "https://shop.app/products/9587664453877/the-bakers-percentage-the-simple-formula-for-making-perfect-sourdough-bread-at",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "Baker's Percentage Calculator & Complete Guide for Bakers - meez",
+      "url": "https://www.getmeez.com/blog/percentage-of-total-ingredients",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "The Dough Formula | Bread Calculator with Baker's Percentages",
+      "url": "https://thedoughformula.com/",
+      "type": "reference",
+      "reliability": "medium"
+    },
+    {
+      "title": "The Baker's Percentage: The simple formula for making ... - Shop",
+      "url": "https://shop.app/products/10415552987429/the-bakers-percentage-the-simple-formula-for-making-perfect-sourdough-bread-at",
+      "type": "reference",
+      "reliability": "medium"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Librarian Wiki Index
-Last updated: 2026-04-08T20:38:12Z
-Total articles: 4
+Last updated: 2026-04-25T20:33:22Z
+Total articles: 5
 Total RED links: 1
 Domains: none yet
 
@@ -9,6 +9,7 @@ Domains: none yet
 ### food
 | Article | Confidence | Sources | Created | Incoming Links |
 |---------|-----------|---------|---------|----------------|
+| [bread-baker-percentages-formula](articles/food/bread-baker-percentages-formula.md) | high | 12 | 2026-04-25 | 0 |
 | [sourdough-fermentation-science](articles/food/sourdough-fermentation-science.md) | high | 12 | 2026-04-08 | 0 |
 | [sourdough-fermentation](articles/food/sourdough-fermentation.md) | high | 5 | 2026-04-08 | 0 |
 
